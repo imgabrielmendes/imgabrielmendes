@@ -1,16 +1,10 @@
-# Olá! Eu sou o Gabriel Mendes 👋
+# Prazer! Sou Gabriel Mendes.
 
-Desenvolvedor Fullstack focado na construção de aplicações web eficientes e escaláveis. Atualmente, estou cursando Ciências e Tecnologia na UFRN, onde aprimoro minha base analítica para resolver problemas complexos com código limpo e seguindo as melhores práticas do mercado.
+Sou desenvolvedor de software com foco em backend, atualmente atuando no setor hospitalar. Tenho experiência sólida com Laravel e bancos de dados SQL Server e MySQL.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meu conhecimento.
+Minha vivência prática envolve a construção de APIs RESTful escaláveis e a modelagem de dados relacionais, sempre aplicando padrões de projeto (como MVC e SOLID) para criar códigos limpos e manuteníveis. Também atuo na integração de sistemas e no desenvolvimento de interfaces com Vue.js.
 
----
-### 🎓 Formação
-
-- **Bacharelado em Ciências e Tecnologia** - UFRN (Previsão de conclusão: 2027.1)
-- **Técnico em Desenvolvimento de Games** – SENAI
-
----
+Além de novos projetos, também possuo experiência relevante na manutenção de código legado, garantindo que aplicações antigas continuem performando bem enquanto novas features são implementadas.
 
 ### 📫 Entre em Contato
 
